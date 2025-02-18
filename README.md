@@ -1,1 +1,1 @@
-# Google_Stock_MarketPrice_Prediction
+# StockMarket_PricePrediction
